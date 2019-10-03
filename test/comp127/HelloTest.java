@@ -1,8 +1,6 @@
+/*
 package comp127;
 
-import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class HelloTest {
     @Test
@@ -10,3 +8,4 @@ public class HelloTest {
         assertEquals(2, 1 + 1);
     }
 }
+*/
